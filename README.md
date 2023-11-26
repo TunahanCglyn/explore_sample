@@ -1,9 +1,9 @@
 # explore_sample
 
-A new Flutter project.
+bu projede bir flutter uygulaması yaptım.
 
-## Getting Started
-
+- [Tunahan Çağlayan](https://github.com/TunahanCglyn)
+- [@keyvanarasteh](https://github.com/keyvanarasteh/keyvanarasteh)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
